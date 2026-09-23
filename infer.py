@@ -6,7 +6,7 @@ Usage:
     python infer.py --image data/val2017/000000000139.jpg  # (untrained model, for testing)
 """
 
-import os
+import os   # object 
 import sys
 import argparse
 
